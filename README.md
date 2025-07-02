@@ -20,7 +20,7 @@ I'm actively involved in competitive programming, AI, cybersecurity, and STEM ol
 ### 🎓 Academic Enrichment
 
 * ✅ **Columbia University Pre-College Program** — Data Science & Machine Learning
-  *(2× 3-week intensive courses)*
+  *(3-week intensive course)*
 
 ---
 
@@ -31,7 +31,7 @@ I'm actively involved in competitive programming, AI, cybersecurity, and STEM ol
 * 🥇 **Gold Medal** – National Olympiad of Informatics (Romania)
 * 🥈 **4× Silver Medals** – National Olympiad of Informatics
 * 🥉 **Bronze Medal** – IATI Shumen International (Bulgaria)
-* 🥉 **Bronze Medal** – Olympiad of Applied Informatics
+* 🥉 **Bronze Medal** – National Olympiad of Applied Informatics
 * 🏅 **Participant** – InfO(1) Cup
 * 🥇 **Gold Medal** – 1st National Olympiad of Artificial Intelligence
 * 🧠 **Mention** – National Cybersecurity Olympiad (2nd edition)
