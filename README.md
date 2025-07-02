@@ -56,3 +56,9 @@ I'm actively involved in competitive programming, AI, cybersecurity, and STEM ol
   <img src="https://github-readme-stats.vercel.app/api?username=MihneaTeodorStoica&show_icons=true&theme=dark&hide=stars&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihneaTeodorStoica&layout=compact&langs_count=6&theme=dark" height="130" />
 </p>
+
+<!--
+
+bye
+
+-->
