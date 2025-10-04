@@ -47,7 +47,7 @@ I'm actively involved in competitive programming, AI, cybersecurity, and STEM ol
 
 ### 🚀 Initiatives
 
-* 📅 **Organizer** of an upcoming national high school hackathon focused on practical, purpose-driven software and real-world impact.
+* 📅 **Lead Organizer** of [YouniHack](https://younihack.org) — a national high school & college Cybersecurity hackathon focused on practical, purpose-driven software and real-world impact.
 
 ---
 
