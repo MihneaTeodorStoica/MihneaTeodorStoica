@@ -1,5 +1,4 @@
 [![wakatime](https://wakatime.com/badge/user/60895259-1e74-4d60-a017-d705d61294f8.svg)](https://wakatime.com/@60895259-1e74-4d60-a017-d705d61294f8)
-
 ## Hi there 👋
 
 I'm Mihnea-Teodor Stoica — a high school student passionate about building software that solves real problems. My work spans systems programming, developer tools, artificial intelligence, cybersecurity, and algorithmic problem solving.
