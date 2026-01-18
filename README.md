@@ -75,10 +75,19 @@ Right now, I’m especially interested in LLM systems, applied machine learning,
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MihneaTeodorStoica/MihneaTeodorStoica/main/assets/github-stats.svg" height="170" />
-  <img src="https://raw.githubusercontent.com/MihneaTeodorStoica/MihneaTeodorStoica/main/assets/top-langs.svg" height="170" />
+  <img
+    height="170"
+    src="https://github-readme-stats-three-mauve.vercel.app/api?username=MihneaTeodorStoica&show_icons=true&rank_icon=github&include_all_commits=true&hide=stars&theme=dark"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-three-mauve.vercel.app/api/top-langs/?username=MihneaTeodorStoica&layout=compact&langs_count=8&theme=dark"
+  />
 </p>
+
 
 <!--
 still building :)
