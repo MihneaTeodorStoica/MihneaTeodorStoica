@@ -203,24 +203,28 @@
       </td>
     </tr>
     <tr>
-      <td width="170" valign="top"><strong>Grade 10<br />2025</strong></td>
-      <td valign="top">
-        <p>
-          <img alt=":rocket:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png?v8" />
-          <strong> Lead Organizer — <a href="https://younihack.org">YouniHack</a></strong><br />
-          National high school &amp; college cybersecurity hackathon focused on practical, real-world software and community building<br /><br />
-          <img alt=":medal_sports:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png?v8" />
-          <strong> Participant — Romanian Masters of Informatics (RMI)</strong><br />
-          <img alt=":3rd_place_medal:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f949.png?v8" />
-          <strong> 3rd Place — ONIA Winter Challenge</strong> <em>(Ministry-backed national AI competition)</em><br />
-          <img alt=":microscope:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png?v8" />
-          <strong> First Student Contributor — National Olympiad of Artificial Intelligence (ONIA)</strong><br />
-          <em>(Involved in the competition ecosystem and development)</em><br />
-          <img alt=":briefcase:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png?v8" />
-          <strong> Generative AI Intern — AQUASoft</strong> <em>(Nov–Dec 2025, Remote)</em>
-        </p>
-      </td>
-    </tr>
+       <td width="170" valign="top"><strong>Grade 10<br />2025</strong></td>
+       <td valign="top">
+         <p>
+           <img alt=":rocket:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png?v8" />
+           <strong> Lead Organizer — <a href="https://younihack.org">YouniHack</a></strong><br />
+           National high school &amp; college cybersecurity hackathon focused on practical, real-world software and community building<br /><br />
+           <img alt=":medal_sports:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png?v8" />
+           <strong> Participant — Romanian Masters of Informatics (RMI)</strong><br />
+           <img alt=":3rd_place_medal:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f949.png?v8" />
+           <strong> 3rd Place — ONIA Winter Challenge</strong> <em>(Ministry-backed national AI competition)</em><br />
+           <img alt=":microscope:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png?v8" />
+           <strong> First Student Contributor — National Olympiad of Artificial Intelligence (ONIA)</strong><br />
+           <em>(Involved in the competition ecosystem and development)</em><br />
+           <img alt=":briefcase:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png?v8" />
+           <strong> Generative AI Intern — AQUASoft</strong> <em>(Nov–Dec 2025, Remote)</em><br /><br />
+           <img alt=":chart_with_upwards_trend:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png?v8" />
+           <strong> Reached Candidate Master — Codeforces</strong><br />
+           <img alt=":gem:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f48e.png?v8" />
+           <strong> Reached Platinum — USACO</strong>
+         </p>
+       </td>
+     </tr>
   </table>
 </div>
 
