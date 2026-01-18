@@ -73,9 +73,10 @@ Right now, I’m especially interested in LLM systems, applied machine learning,
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Activity & Coding Stats
 
 <p align="center">
+  <!-- Main stats -->
   <img
     height="170"
     src="https://github-readme-stats-three-mauve.vercel.app/api?username=MihneaTeodorStoica&show_icons=true&rank_icon=github&include_all_commits=true&hide=stars&theme=dark"
@@ -86,6 +87,25 @@ Right now, I’m especially interested in LLM systems, applied machine learning,
   />
 </p>
 
+<p align="center">
+  <!-- Streak + WakaTime -->
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=MihneaTeodorStoica&theme=dark&hide_border=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-three-mauve.vercel.app/api/wakatime?username=60895259-1e74-4d60-a017-d705d61294f8&layout=compact&theme=dark"
+  />
+</p>
+
+<p align="center">
+  <!-- Contribution graph -->
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MihneaTeodorStoica&theme=github-dark&hide_border=true"
+  />
+</p>
 
 <!--
 still building :)
