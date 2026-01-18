@@ -50,18 +50,18 @@
 <!-- ===== Intro (centered title + clean paragraphs) ===== -->
 <h2 align="center">Hi, I’m Mihnea :wave:</h2>
 
-<p align="center">
+<p>
   I’m a high school student from Romania who likes going deep into how things work — from low-level systems and
   algorithms to modern AI systems and developer tools.
 </p>
 
-<p align="center">
+<p>
   I started in competitive programming and national olympiads, then moved into AI, cybersecurity, and real-world
   projects — from AI competitions to contributing to the national AI olympiad ecosystem and building production-style
   GenAI systems during an internship.
 </p>
 
-<p align="center">
+<p>
   Right now, I’m especially interested in LLM systems, applied machine learning, and tooling that helps developers work
   more efficiently.
 </p>
