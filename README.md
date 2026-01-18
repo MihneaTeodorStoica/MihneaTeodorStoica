@@ -1,4 +1,11 @@
-[![wakatime](https://wakatime.com/badge/user/60895259-1e74-4d60-a017-d705d61294f8.svg)](https://wakatime.com/@60895259-1e74-4d60-a017-d705d61294f8)
+<p align="center">
+  <a href="https://wakatime.com/@60895259-1e74-4d60-a017-d705d61294f8">
+    <img alt="WakaTime" src="https://wakatime.com/badge/user/60895259-1e74-4d60-a017-d705d61294f8.svg" />
+  </a>
+  <img alt="Followers" src="https://img.shields.io/github/followers/MihneaTeodorStoica?style=flat-square&logo=github" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/MihneaTeodorStoica?affiliations=OWNER&style=flat-square&logo=github" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=MihneaTeodorStoica&style=flat-square" />
+</p>
 
 ## Hi, I’m Mihnea 👋
 
@@ -68,27 +75,16 @@ Right now, I’m especially interested in LLM systems, applied machine learning,
 
 ### 📊 GitHub Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MihneaTeodorStoica&show_icons=true&hide=stars&include_all_commits=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+<p align="center">
+  <img
+    height="170"
+    src="https://YOUR_GRS_DOMAIN.vercel.app/api?username=MihneaTeodorStoica&show_icons=true&rank_icon=github&include_all_commits=true&hide=stars&theme=dark"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MihneaTeodorStoica&show_icons=true&hide=stars&include_all_commits=true"
-    height="200"
+    height="170"
+    src="https://YOUR_GRS_DOMAIN.vercel.app/api/top-langs/?username=MihneaTeodorStoica&layout=compact&langs_count=8&theme=dark"
   />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MihneaTeodorStoica&layout=compact&langs_count=8&card_width=320&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihneaTeodorStoica&layout=compact&langs_count=8&card_width=320"
-    height="200"
-  />
-</picture>
+</p>
 
 <!--
 still building :)
