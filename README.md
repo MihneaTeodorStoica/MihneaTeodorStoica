@@ -1,65 +1,95 @@
 [![wakatime](https://wakatime.com/badge/user/60895259-1e74-4d60-a017-d705d61294f8.svg)](https://wakatime.com/@60895259-1e74-4d60-a017-d705d61294f8)
-## Hi there 👋
 
-I'm Mihnea-Teodor Stoica — a high school student passionate about building software that solves real problems. My work spans systems programming, developer tools, artificial intelligence, cybersecurity, and algorithmic problem solving.
+## Hi, I’m Mihnea 👋
 
-I'm actively involved in competitive programming, AI, cybersecurity, and STEM olympiads — not just as a participant, but as someone who aims to deeply understand systems and build tools that matter.
+I’m a high school student from Romania who enjoys going deep into how things work — from low-level systems and algorithms to modern AI systems and developer tools. I like building things that are both technically interesting and actually useful.
+
+I started out in competitive programming and national olympiads, then gradually moved into artificial intelligence, cybersecurity, and real-world applications — from AI competitions to contributing to the national AI olympiad ecosystem and working on production-style GenAI systems during an internship.
+
+Right now, I’m especially interested in LLM systems, applied machine learning, and tooling that helps developers work more efficiently.
 
 ---
 
 ### 🧠 Areas of Focus
 
-* Low-level systems programming (C/C++)
+* Low-level systems programming (C / C++)
 * Competitive programming (Codeforces, CSAcademy, infoarena)
-* Neovim plugin development and developer tooling
-* Applied AI and algorithm design
+* Developer tools and Neovim plugin development
+* Applied AI, ML pipelines, and LLM-based systems
 * Cybersecurity (CTFs, reverse engineering)
 * Hackathon projects and practical software solutions
 
----
-
-### 🎓 Academic Enrichment
-
-* ✅ **Columbia University Pre-College Program** — Data Science & Machine Learning
-  *(3-week intensive course)*
+**Currently:** preparing for AI competitions, working on LLM-based projects, and building developer tools in C++ and Python.
 
 ---
 
-### 🏅 Competitions & Recognition
+### 💼 Experience
 
-#### Informatics & Software
-
-* 🥇 **Gold Medal** – National Olympiad of Informatics (Romania)
-* 🥈 **4× Silver Medals** – National Olympiad of Informatics
-* 🥉 **Bronze Medal** – IATI Shumen International (Bulgaria)
-* 🥉 **Bronze Medal** – National Olympiad of Applied Informatics
-* 🏅 **Participant** – InfO(1) Cup
-* 🥇 **Gold Medal** – 1st National Olympiad of Artificial Intelligence
-* 🧠 **Mention** – National Cybersecurity Olympiad (2nd edition)
-
-#### Broader STEM
-
-* 🥈 **Silver Medal** – National Mathematics Olympiad (Romania)
-* 🏅 **Honorable Mention** – National Mathematics Olympiad
-* 📘 **Participant** – National Physics Olympiad
+**Generative Artificial Intelligence Intern — AQUASoft** *(Nov–Dec 2025, Remote)*  
+- Worked on applied LLM engineering projects, including an automated phone-call agent  
+- Designed prompt pipelines and integrated models into interactive systems  
+- Gained hands-on experience with production-oriented GenAI workflows and evaluation
 
 ---
 
-### 🚀 Initiatives
+### 🏆 Competitions, Contributions & Initiatives (Timeline)
 
-* 📅 **Lead Organizer** of [YouniHack](https://younihack.org) — a national high school & college Cybersecurity hackathon focused on practical, purpose-driven software and real-world impact.
+#### **Grade 5 — 2021**
+- 🥇 **Gold Medal — National Olympiad of Informatics (Romania)**
+- 🥈 **Silver Medal — National Mathematics Olympiad (Romania)**
+
+#### **Grade 7 — 2023**
+- 🏅 **Honorable Mention — National Mathematics Olympiad (Romania)**
+- 📘 **Participant — National Physics Olympiad (Romania)**
+
+#### **Grade 8 — 2024**
+- 🥉 **Bronze Medal — IATI Shumen International Informatics Competition (Bulgaria)**
+
+#### **Grades 6–9 — 2022–2025**
+- 🥈 **Multiple Silver Medals — National Olympiad of Informatics (Romania)**
+
+#### **Grade 9 — 2025**
+- 🥇 **Gold Medal — National Olympiad of Artificial Intelligence (ROAI / NitroAI)**  
+  *(First Edition, before the split into ONIA and ROAI/OAIA tracks)*  
+- 🥉 **Bronze Medal — AcadNet (Software Interoperability)**
+- 🧠 **Mention — National Cybersecurity Olympiad (Romania)**
+- 🎓 **Columbia University Pre-College — Data Science & Machine Learning II**
+
+#### **Grade 10 — 2025**
+- 🚀 **Lead Organizer — [YouniHack](https://younihack.org)**  
+  National high school & college cybersecurity hackathon focused on practical, real-world software and community building
+- 🏅 **Participant — Romanian Masters of Informatics (RMI)**
+- 🥉 **3rd Place — ONIA Winter Challenge** *(Ministry-backed national AI competition)*
+- 🔬 **First Student Contributor — National Olympiad of Artificial Intelligence (ONIA)**  
+  *(Involved in the competition ecosystem and development)*
+- 💼 **Generative AI Intern — AQUASoft** *(Nov–Dec 2025, Remote)*
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihneaTeodorStoica&show_icons=true&theme=dark&hide=stars&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihneaTeodorStoica&layout=compact&langs_count=6&theme=dark" height="130" />
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MihneaTeodorStoica&show_icons=true&hide=stars&include_all_commits=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MihneaTeodorStoica&show_icons=true&hide=stars&include_all_commits=true"
+    height="200"
+  />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MihneaTeodorStoica&layout=compact&langs_count=8&card_width=320&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihneaTeodorStoica&layout=compact&langs_count=8&card_width=320"
+    height="200"
+  />
+</picture>
 
 <!--
-
-bye
-
+still building :)
 -->
