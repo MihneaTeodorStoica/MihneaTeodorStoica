@@ -75,8 +75,6 @@ Right now, I’m especially interested in LLM systems, applied machine learning,
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img
     height="170"
