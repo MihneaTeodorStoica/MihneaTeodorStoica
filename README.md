@@ -81,16 +81,14 @@
 <h3 align="center">:brain: Areas of Focus</h3>
 
 <p align="center">
-  <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-Systems-111827?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="CP" src="https://img.shields.io/badge/Competitive%20Programming-Codeforces%20%7C%20Infoarena-111827?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Dev%20Tools-Neovim%20Plugins-111827?style=for-the-badge&logo=neovim&logoColor=white" />
   <img alt="AI" src="https://img.shields.io/badge/AI%2FML-LLMs%20%7C%20Pipelines-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="C++ Competitive Programming" src="https://img.shields.io/badge/C%2B%2B%20-Competitive%20Programming-111827?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img alt="Security" src="https://img.shields.io/badge/Security-CTFs%20%7C%20RE-111827?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 <p align="center">
-  <strong>Currently:</strong> preparing for AI competitions, building LLM-based projects, and shipping developer tools in
-  C++ and Python.
+  <strong>Currently:</strong> preparing for AI competitions, building LLM-based projects, and focusing on C++ algorithmic
+  problem-solving for competitive programming and olympiads.
 </p>
 
 <!-- ===== Divider ===== -->
@@ -274,15 +272,6 @@
   />
 </p>
 
-<!-- Optional: trophies row -->
-<p align="center">
-  <img
-    alt="Trophies"
-    src="https://github-profile-trophy.vercel.app/?username=MihneaTeodorStoica&theme=darkhub&no-frame=true&row=1&column=7"
-  />
-</p>
-
-<!-- Optional: extra “pimp” badges (keep last for best look) -->
 <p align="center">
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/MihneaTeodorStoica/MihneaTeodorStoica?style=flat-square&logo=git&logoColor=white" />
   <img alt="Repos" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMihneaTeodorStoica" />
