@@ -203,7 +203,7 @@
       </td>
     </tr>
     <tr>
-       <td width="170" valign="top"><strong>Grade 10<br />2025</strong></td>
+      <td width="170" valign="top"><strong>Grade 10<br />2025–2026</strong></td>
        <td valign="top">
          <p>
            <img alt=":rocket:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png?v8" />
@@ -216,6 +216,9 @@
            <img alt=":microscope:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png?v8" />
            <strong> First Student Contributor — National Olympiad of Artificial Intelligence (ONIA)</strong><br />
            <em>(Involved in the competition ecosystem and development)</em><br />
+           <img alt=":test_tube:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ea.png?v8" />
+           <strong> Accepted — Horizon Labs 1-on-1 Research Program</strong><br />
+           <em>(Selective research mentorship program)</em><br />
            <img alt=":briefcase:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png?v8" />
            <strong> Generative AI Intern — AQUASoft</strong> <em>(Nov–Dec 2025, Remote)</em><br /><br />
            <img alt=":chart_with_upwards_trend:" height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png?v8" />
