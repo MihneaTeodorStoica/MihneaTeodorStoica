@@ -1,4 +1,4 @@
-# Mihnea Stoica
+# Mihnea-Teodor Stoica
 
 Background in competitive programming and national olympiads, transitioning toward artificial intelligence and applied machine learning.  
 Currently focused on building and analyzing real-world AI systems and their underlying algorithms.
@@ -6,7 +6,8 @@ Currently focused on building and analyzing real-world AI systems and their unde
 ## Highlights
 
 - Founder — AI Club (first in school; ~80% of students qualified to national AI olympiads)
-- Gold Medal — National Olympiad of Artificial Intelligence (Romania)
+- First Place — ROAI (Romania)
+- Second Place — ONIA (Romania)
 - Candidate Master — Codeforces
 - Gold Division — USA Computing Olympiad (USACO)
 - Generative Artificial Intelligence Intern — AQUASoft
@@ -14,7 +15,7 @@ Currently focused on building and analyzing real-world AI systems and their unde
 
 ## Currently Working On
 
-- mono-lm — character-level language model exploring training dynamics, architecture, and optimization (actively developed)
+- jovykit — layered Jupyter notebook container images for data science, machine learning, and research workflows
 
 ## Experience & Leadership
 
