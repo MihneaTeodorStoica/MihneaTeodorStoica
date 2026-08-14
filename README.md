@@ -1,10 +1,11 @@
 # Mihnea-Teodor Stoica
 
-Background in competitive programming and national olympiads, transitioning toward artificial intelligence and applied machine learning.  
+IOAI silver medalist with a background in competitive programming and national olympiads, transitioning toward artificial intelligence and applied machine learning.
 Currently focused on building and analyzing real-world AI systems and their underlying algorithms.
 
 ## Highlights
 
+- Silver Medalist — International Olympiad in Artificial Intelligence (IOAI)
 - Founder — AI Club (first in school; ~80% of students qualified to national AI olympiads)
 - First Place — ROAI (Romania)
 - Second Place — ONIA (Romania)
@@ -15,7 +16,7 @@ Currently focused on building and analyzing real-world AI systems and their unde
 
 ## Currently Working On
 
-- jovykit — layered Jupyter notebook container images for data science, machine learning, and research workflows
+- secret 👀
 
 ## Experience & Leadership
 
